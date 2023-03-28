@@ -1,0 +1,8 @@
+div {
+    font-weight: 700;
+    font-size: 30px;
+    padding: 10px 20px;
+    background-color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+}
